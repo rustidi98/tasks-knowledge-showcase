@@ -8,6 +8,13 @@ It's a real, working product. The engine is solid; what remained before calling 
 20% of UX polish. I think knowing the difference between "the engine works" and "it feels finished" is
 itself worth showing.
 
+> 📐 **[architecture/](./architecture)** — the domain map, the RLS security boundary, and the
+> AI-permission-gate diagrams (render on GitHub).
+> 💻 **[sanitized-code/](./sanitized-code)** — real extracts: a Row-Level Security policy and the
+> per-page AI-visibility gate.
+> This is a **case-study repository** — the production source is private; what's public is the
+> architecture, the reasoning, and sanitized code.
+
 ---
 
 ## What it does

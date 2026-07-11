@@ -84,4 +84,4 @@ was polish: making it *feel* as finished as it functions. I'd rather show a real
 
 ---
 
-*Built by Rustem Idiatullin. Full-stack — data model to editor. Relocating to Australia or New Zealand.*
+*Built by Rustem Idiiatullin. Full-stack — data model to editor. Relocating to Australia or New Zealand.*
